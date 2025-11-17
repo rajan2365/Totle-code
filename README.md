@@ -1,6 +1,4 @@
-A simple, fast, and modular REST API built with Node.js & Express.js that provides a list of topics
-with optional search and sorting capabilities. The project follows best practices with a separated router structure and
-clean code design.
+A simple, fast, and modular REST API built with Node.js & Express.js that provides a list of topicswith optional search and sorting capabilities. The project follows best practices with separated router structure and clean code design.
 
 🚀 Features
 
