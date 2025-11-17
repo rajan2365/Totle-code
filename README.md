@@ -3,11 +3,12 @@ A simple, fast, and modular REST API built with Node.js & Express.js that provid
 🚀 Features
 
 -----------------Fetch all topics--------------
-1 .Search topics by name — ?search=react
-2. Sort topics alphabetically — ?sort=name
-3. Clean folder structure using Express Router
-4. JSON-based data storage
-5. Lightweight and easy to extend
+
+Search topics by name — ?search=react
+ Sort topics alphabetically — ?sort=name 
+ Clean folder structure using Express Router
+JSON-based data storage
+ Lightweight and easy to extend
 
 
 🛠️ Technologies Used
