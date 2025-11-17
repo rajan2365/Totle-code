@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "JavaScript", "category": "Programming" },
+  { "id": 2, "name": "Node.js", "category": "Backend" },
+  { "id": 3, "name": "React", "category": "Frontend" },
+  { "id": 4, "name": "Machine Learning", "category": "AI" },
+  { "id": 5, "name": "Data Structures", "category": "Computer Science" },
+  { "id": 6, "name": "Cyber Security", "category": "IT" },
+  { "id": 7, "name": "Cloud Computing", "category": "Technology" },
+  { "id": 8, "name": "Blockchain", "category": "Finance & Technology" },
+  { "id": 9, "name": "DevOps", "category": "Software Engineering" },
+  { "id": 10, "name": "Database Systems", "category": "Computer Science" }
+]
